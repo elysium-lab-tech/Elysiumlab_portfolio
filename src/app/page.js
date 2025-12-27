@@ -159,7 +159,7 @@ export default function Home() {
       
 
       <section id="clients" className="mx-auto max-w-7xl px-6 py-24">
-        <h2 className="glow-heading mb-6 text-3xl font-semibold">Our Clients</h2>
+        <h2 className="glow-heading mb-6 text-3xl font-semibold">Our Experiences</h2>
         <div className="clients-marquee">
           <div className="clients-track">
             {/* Set A */}
@@ -170,7 +170,7 @@ export default function Home() {
                 <p className="client-desc">We crafted bold digital campaigns and high-impact visuals that elevated Velocity’s EV identity. Our design strategy focused on clean energy storytelling and futuristic branding precision.</p>
               </div>
             </div>
-            <div className="client-card glass-card rounded-2xl overflow-hidden">
+            {/* <div className="client-card glass-card rounded-2xl overflow-hidden">
               <img src="/client_2.jpg" alt="Balance Salon" className="client-img" />
               <div className="client-info">
                 <div className="client-title">Balance Salon</div>
@@ -183,7 +183,7 @@ export default function Home() {
                 <div className="client-title">Thennatu Virundhu</div>
                 <p className="client-desc">We brought tradition to the digital space with earthy tones and heritage-driven branding. Our campaigns and graphic narratives celebrated authentic South Indian dining with modern flair.</p>
               </div>
-            </div>
+            </div> */}
             {/* Duplicate for seamless loop (Set B) */}
             <div className="client-card glass-card rounded-2xl overflow-hidden">
               <img src="/client_1.jpg" alt="Velocity" className="client-img" />
@@ -192,7 +192,7 @@ export default function Home() {
                 <p className="client-desc">We crafted bold digital campaigns and high-impact visuals that elevated Velocity’s EV identity. Our design strategy focused on clean energy storytelling and futuristic branding precision.</p>
               </div>
             </div>
-            <div className="client-card glass-card rounded-2xl overflow-hidden">
+            {/* <div className="client-card glass-card rounded-2xl overflow-hidden">
               <img src="/client_2.jpg" alt="Balance Salon" className="client-img" />
               <div className="client-info">
                 <div className="client-title">Balance Salon</div>
@@ -205,7 +205,7 @@ export default function Home() {
                 <div className="client-title">Thennatu Virundhu</div>
                 <p className="client-desc">We brought tradition to the digital space with earthy tones and heritage-driven branding. Our campaigns and graphic narratives celebrated authentic South Indian dining with modern flair.</p>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
